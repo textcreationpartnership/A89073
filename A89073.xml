@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius militans, with his hags haunting cruelty, and his bays crowning clemency historically suited to our long wished peace / by Hieron Philalethes.</title>
+            <author>Philalethes, Hieron.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89073</idno>
+            <idno type="STC">Wing M1768</idno>
+            <idno type="STC">Thomason E472_2</idno>
+            <idno type="EEBO-CITATION">50805855</idno>
+            <idno type="OCLC">ocm 50805855</idno>
+            <idno type="VID">162409</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162409)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E472[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius militans, with his hags haunting cruelty, and his bays crowning clemency historically suited to our long wished peace / by Hieron Philalethes.</title>
+                  <author>Philalethes, Hieron.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162409:1" rendition="simple:additions"/>
+            <head>
+               <hi>Mercurius Militans,</hi> With his Hags haunting Cruelty, and his Bays crowning Clemency; Hiſtorically ſuited to our long wiſhed Peace.</head>
+            <byline>By <hi>Hieron: Philalethes.</hi>
+            </byline>
+            <p>Printed in the Year 1648.</p>
+            <p>I Beleeve that as nothing ſo degenerates man into a <hi>Wolf</hi> and a <hi>Tiger,</hi> yea into a <hi>Devil,</hi> as <hi>Cruelty,</hi> according to the phraſes, <hi>Homo homini lupus, homo homini Demon,</hi> now commented and writ in the bloods of millions of <hi>Innocents,</hi> devoured by that worſt of wolves called Rebel in <hi>Ireland,</hi> as alſo in <hi>England,</hi> with as much voracity, truculency, and barbarous inhumanity, as the three <hi>Herods</hi> in <hi>Ioſephus</hi> and our <hi>Richard</hi> the third exerciſed againſt their Nobles and Conſanguinity; <hi>Ahab</hi> and <hi>Iezabel</hi> againſt <hi>Naboath, Elias Michah</hi> and the beſt Prophets; the bramble <hi>Abimeleck</hi> againſt his Brethren, the 70 ſons of <hi>Gideon: Orchanes the Turk</hi> againſt all his <hi>Butchered Brethren,</hi> the ſons of the great <hi>Ottoman:</hi> or as ever <hi>Bu<g ref="char:EOLhyphen"/>ſiris, Periander, Emanuel, Paleologus,</hi> exerciſed with numerous moe in their ſpecified cruelties by <hi>Melancton</hi> in his Gronocles <hi>pag.</hi> 178, 188. by <hi>Tholoſanus</hi> in his ſix book of his Commonwealth, cap. 19. p. 380 381. &amp; 1498. By <hi>Valerius,</hi> lib. 9. cap. 14. and by <hi>Anti-matchavil.</hi> lib. 3 p. 519, 562, 563. The rage of theſe our civil uncivil Wars being ſo great, that againſt the dictate both of <hi>Reaſon</hi> and <hi>Religion,</hi> againſt the <hi>Light</hi> both of <hi>Grace</hi> and <hi>Nature;</hi> blood hath not ſpared blood; Brothers being divided in as great <hi>hoſtility</hi> as <hi>Cain</hi> againſt <hi>Abel, Ab<g ref="char:EOLhyphen"/>ſalom</hi> againſt <hi>Ammon, Romulus</hi> once againſt <hi>Rhemus, Cambiſes</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Smerdis, Brennus</hi> againſt <hi>Brentius,</hi> and the Popiſh <hi>Alphonſus</hi> againſt his Proteſtant brother <hi>Diazius,</hi> who, as needs running, whom the <hi>Devil</hi> drives, came as far as <hi>Rome</hi> to <hi>Germany</hi> to murther him: ſo beſides the <hi>Furies</hi> and <hi>Hags,</hi> and horrors of their <hi>Con<g ref="char:EOLhyphen"/>ſciences,</hi>
+               <pb n="2" facs="tcp:162409:2"/>which haunt them as the <hi>worſt of ſpirits and ghoſts,</hi> as is hiſtorified in <hi>Nero</hi> after he had maſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cred <hi>Peter</hi> and <hi>Paul,</hi> and his Maſter <hi>Seneca,</hi> and his mother <hi>Octavia,</hi> and in <hi>Caligula</hi> after his <hi>Butcheries</hi> creeping into <hi>Corners</hi> in any <hi>Lightnings and Thunders;</hi> and in <hi>Herod</hi> after his ſlaughter of the <hi>Bethlem Infants,</hi> his two ſons <hi>Alexander</hi> and <hi>Ari<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tobulus,</hi> his wife <hi>Mariana,</hi> and the <hi>Synedrim</hi> of the Jews, and in <hi>Alexander</hi> after he had burnt <hi>Perſepolis,</hi> and ſlain his dear friends <hi>Clitus</hi> and <hi>Caliſthenes;</hi> with many moe extracted from <hi>Ioſephus</hi> and <hi>ſecular Authors</hi> by <hi>Stri<g ref="char:EOLhyphen"/>gellius. lib.</hi> 1. <hi>Ethic. p.</hi> 7, 9.155, 159. and by <hi>Patritius, l.</hi> 5. <hi>de regno. tit.</hi> 8 <hi>p.</hi> 313. with the wonderful <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ggravations of the gnawing of this worſt of worms, the ſtinging of this worſt of ſerpents, the <hi>excruciations</hi> of this worſt of <hi>beaſts,</hi> an <hi>Evil Conſcience;</hi> to be read in that ze<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l us <hi>Melander Luther</hi> in his <hi>Comment on Geneſis.</hi> cap. 31. <hi>p.</hi> 486 <hi>&amp;</hi> cap. 43. <hi>p.</hi> 652. <hi>&amp;</hi> cap. 45. <hi>p.</hi> 671. And in <hi>Pezelius</hi> comment in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Geneſis,</hi> cap. 37, <hi>pag.</hi> 714. <hi>&amp;</hi> cap. 41. <hi>pag,</hi> 794. 789. <hi>&amp;</hi> cap. 45. pag. 835. <hi>&amp;</hi> cap. 50. <hi>page</hi> 971. So even in this life; <hi>Plagues</hi> follow cru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <hi>Princes</hi> and <hi>Peers</hi> at the heels l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke <hi>Lacquies,</hi> and haunt them as <hi>Brutus</hi> his ghoſt: Beſides the <hi>exangeration</hi> of <hi>con<g ref="char:EOLhyphen"/>ſcience</hi> which, as is feigned of <hi>Titius &amp; Promethius,</hi> eats their very <hi>Hearts</hi> and <hi>Livors</hi> as the Fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh Wolf that fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh in which it breeds.</p>
+            <p>Their <hi>firſt plague</hi> is, That they are no better loved then the <hi>Siracu<g ref="char:EOLhyphen"/>ſans</hi> loved their three <hi>Dioniſii,</hi> as an old woman told one of them, or then <hi>Lambs</hi> love <hi>Wolves,</hi> being dayly more curſed then the Fox by Country Beldams devouring Poultry. <hi>O derunt dum metuunt:</hi> Fear<g ref="char:EOLhyphen"/>ed they may be as <hi>Witches</hi> fear their <hi>Devils</hi> and <hi>Familiar,</hi> which ſuck their bloods, but never loved better then <hi>Brutus</hi> loved the <hi>Tarquins,</hi> or <hi>Felton</hi> that <hi>Frenchified Duke,</hi> who felt the <hi>ſharpneſſe</hi> of his <hi>ſtabbing Knife.</hi>
+            </p>
+            <p>Secondly, They are always plagued with a <hi>Domeſtick Devil,</hi> calld <hi>Iealouſie;</hi> with a <hi>boſomed Snake,</hi> c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled <hi>Suſpition,</hi> even of <hi>their beſt Friends</hi> whom they ſeem moſt to love, and whom they have moſt honored and advanced; which <hi>Iealouſies</hi> are ſeldom quenched but with their blood, chiefly when their <hi>Favorites</hi> grow popular, then <hi>Herod</hi> makes his <hi>Ariſtobulus,</hi> the Nephew of <hi>Hircanus</hi> the <hi>High Prieſt,</hi> ſhorter by the head; as <hi>Sejanus</hi> was ſo lopt in the like caſe by <hi>Tiberius (apud dionem in vita)</hi> yea the famous <hi>Muſtapha</hi> in <hi>Knolls</hi> his <hi>Turkiſh Hiſtory,</hi> by the <hi>Tyrant</hi> his <hi>Father.</hi>
+            </p>
+            <p>Thirdly, They are uſually poſſeſſed, as with ſo many <hi>tormenting ſpirits,</hi> with <hi>ſervile and ſlaviſh Fears,</hi> moſt of them complaining,
+<pb n="3" facs="tcp:162409:2"/>
+               <q xml:lang="lat">Multa miſer timeo, quia feci multa proterve.</q>
+               <q>
+                  <l>Much have I done, baſe, bloody, vile, and Evil,</l>
+                  <l>And much I fear to ſuffer like the Devil.</l>
+               </q>
+            </p>
+            <p>Which fears ſo poſſeſt <hi>Dioniſius,</hi> that he feared every <hi>Barbers Knife</hi> to ſhave too neer his throat, <hi>Tyrants</hi> uſually doubling their Guards as the worſt Popes their Guards of <hi>Switzers,</hi> and the worſt <hi>Erench Kings</hi> thoſe of <hi>Feench and Scots:</hi> the <hi>ſervile fears</hi> of <hi>Tyrants</hi> ſeldom or never cured but by a <hi>Julip</hi> or red caudle of the blood of thoſe they fear; as many inſtances are given in this kind in <hi>Claudius Caeſar, Va<g ref="char:EOLhyphen"/>lentinian, Wenceſtaus</hi> the ſon of <hi>Charles the fourth Emperor, Caius, Caligula, Nero,</hi> and many moe, by <hi>Dion Caſſius, Plutark, Me<g ref="char:EOLhyphen"/>lancton, in locis,</hi> pag. 118, <hi>in Chron. lib.</hi> 4. pag. 457. and by <hi>Anti<g ref="char:EOLhyphen"/>matchavil, lib.</hi> 3. pag. 476, 477, 478. Theſe <hi>pannick Terrors,</hi> as <hi>helliſh Hags,</hi> uſually poſſeſſing them, in theſe Battels, in which they imbark themſelves from a bad Cauſe, and with a worſe <hi>Conſcience</hi> being the main Cauſe that oft a few Soldiers bed by a Lion (as the juſt are hold as a Lion) are oft <hi>victorious</hi> over redoubled and trebled oumbers of thoſe whoſe <hi>hearts</hi> are in their heels, led by a <hi>Hart</hi> or a <hi>Hare,</hi> as <hi>Leonides</hi> uſed the <hi>Simile;</hi> of which abundant inſtances are given by <hi>Pezelius</hi> in <hi>Gen.</hi> cap. 35.669. by <hi>Strigellius,</hi> in Pſal. 9. p. 71. by <hi>Pontanus</hi> in his firſt book of Fortune, <hi>c.</hi> 25. and by <hi>Patritius lib.</hi> 5. <hi>de regno, tit.</hi> 4. <hi>p.</hi> 305. in thoſe Terrors which God caſt into the hearts of the Midianites, <hi>Judg.</hi> 7. And of the <hi>Canaanites</hi> and thoſe of <hi>Jericho</hi> in <hi>Joſhuahs</hi> time: And of the <hi>Philiſtines</hi> in <hi>Iona<g ref="char:EOLhyphen"/>thans</hi> time, 1 <hi>Sam.</hi> 14. And of the <hi>Quadi</hi> in <hi>Antoninus</hi> his time, and into the hoſte of 100000 <hi>Ethiopians</hi> in <hi>Aſa</hi>'s time, 2 <hi>Chron.</hi> 16. And into the hoſte of cruel <hi>Attila,</hi> neer the City <hi>Anrelia;</hi> And into the hoſte of <hi>Benbadad</hi> in <hi>Ababs</hi> time, 1 <hi>King.</hi> 20. And into the hoſte of <hi>Arbogaſtus,</hi> and <hi>Eugenius</hi> encountring with good <hi>Theodoſius;</hi> of which <hi>Claudian</hi> could ſing,
+<q xml:lang="lat">O nimium dilecte deo cui fundit ab antris Aeolus armat as acies, cui militat Aether.</q>
+               <q>
+                  <l>O Darling to thy God, for whom the Air</l>
+                  <l>And windrs do fight thine enemies troops to fear.</l>
+               </q>
+            </p>
+            <p>And when ſuch Terrors, as God ſends oft into the hearts of Multi<g ref="char:EOLhyphen"/>tudes, fighting with handfuls, according to his Commination, <hi>Deut.</hi> 28. do ſo work, that ſometimes three hundred <hi>Lacedemonians,</hi> in the <hi>advantage</hi> of a ſcrait, killing twenty thouſand of <hi>Zorxes</hi> his Army; ſometimes a <hi>Forbius</hi> with <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hirty thouſand <hi>quelling</hi> of the <hi>Gauls</hi> two hundred thouſand; ſometimes a <hi>Greek Milti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> with eleven thou<g ref="char:EOLhyphen"/>ſand, rouing and executing a hundred thouſand foot of the Perſians,
+<pb n="4" facs="tcp:162409:3"/>and ten thouſand horſe: An <hi>Abraham</hi> with three hundred and eighteen purſuing and conquering four <hi>Kings</hi> of <hi>Cilicia, Perſia, Babylon</hi> and <hi>Aſſyria, Gen.</hi> 14. A <hi>David</hi> with four hundred quelling the <hi>Amelekites</hi> which lay like Graſhoppers ſcattered upon the earth, 1 <hi>Sam.</hi> In theſe caſes we muſt ſay there is concurring with <hi>digitus Dei,</hi> the finger of God: Such pannick fears as are deſcribed with their effects by <hi>Eraſ<g ref="char:EOLhyphen"/>mus</hi> in his <hi>Adages, Chil.</hi> 3. <hi>Cent.</hi> 7. <hi>Adag.</hi> 88. by <hi>Politian</hi> in his <hi>Meſellanean</hi> Hiſtory. by <hi>Pontanus</hi> lib. 1. <hi>fortunae,</hi> p. 57. and by <hi>Danaeus</hi> in his <hi>politick Aphoriſms,</hi> p. 163, <hi>&amp;</hi> 204. Much alſo is attri<g ref="char:EOLhyphen"/>buted to this pannick fear by <hi>Polibius lib.</hi> 5. <hi>in fine.</hi> in the <hi>Mace<g ref="char:EOLhyphen"/>donian Philipp,</hi> weighing up anchor on a ſudden, and with hoyſted ſails flying with his great Navy rigged for <hi>Illirium,</hi> when he conceit<g ref="char:EOLhyphen"/>ed the <hi>Roman Navy</hi> nigh, which was faroff: And <hi>Heroditus, lib.</hi> 4. p. 108. ſhews what it wrought on the <hi>Sicilian</hi> ſlaves when their Maiſters left their ſwords, and fought with them with ſuch whips as they were wont to laſh them with: And much I ſaw with my eyes in this kind, not only at <hi>Melon Grainge,</hi> amongſt the Bogs neer the water, but chiefly at the battel at <hi>Kilruſh, (Kil-rouge, Kil-rebel,)</hi> when ſcarce two thouſand Foot and five hundred Horſe, led valiantly by the great <hi>Ormond,</hi> and that thrice worthy <hi>Coute,</hi> the reſolute <hi>Scourge Kern,</hi> routed nine thouſand out of their Trenches of the <hi>Iriſh Rebels,</hi> flying as Hares before Hounds, (faſter then lately twenty thouſand <hi>Blew Bonnets</hi> before nine thouſand <hi>True Blades</hi>) into Ty<g ref="char:EOLhyphen"/>rones old Forts, their adjacent Bogs not ſhaked ſo much with their Doe-like tripping, as their more boggy hearts ſhaked by trembling. <hi>Deut.</hi> 28. <hi>Lev.</hi> 26.</p>
+            <p>A fourth <hi>plague</hi> which hangs over the head of <hi>Tyranny,</hi> as the ſword of <hi>Dioniſius</hi> once over the head of <hi>Damocles,</hi> is this, Their <hi>Thrones,</hi> if <hi>Monarchs,</hi> their <hi>Seats,</hi> if <hi>Magiſtrates,</hi> are ſo ſlippery with blood, that they as ſoon <hi>ſhip out</hi> of them (as ſome Popes by an <hi>Italian Fico</hi> out of St <hi>Peters</hi> poorly pretended and proudly uſurped chair,) as every one that hath read <hi>Livy</hi> and <hi>Plinny</hi> can t ll, how the <hi>Tarquins</hi> were hurried out of <hi>Roms; Hippias</hi> out of <hi>Athens;</hi> and the worſt of the <hi>Dioniſians</hi> out of <hi>Siracuſa,</hi> to change his <hi>Scepter</hi> into a <hi>Schoolmasters Ferula:</hi> The great <hi>Monarchy</hi> alſo of the <hi>Caldeans</hi> being tranſlated by <hi>Cyrus</hi> from the <hi>Babylonians</hi> to the <hi>Perſians,</hi> after that <hi>Balthazar</hi> in hunting had ſlain the ſon of <hi>Gobrias:</hi> Others in this nature being related by <hi>Melancton</hi> in his <hi>Chronologies, p.</hi> 605, 606.</p>
+            <p>The <hi>Wrath of God and Man,</hi> the <hi>Iuſtice of Heaven and Earth,</hi> do oft ſo concur, in the cutting them off, in a retaliating <hi>vengeance,</hi> that
+<pb n="5" facs="tcp:162409:3"/>pledging at laſt thoſe Innocents in that bloody cup they have cauſed them to quaff, that as it is as rare a thing to ſee an aged Tyrant, as a black Swan; a ſelf-denying juſt-accounting Officer, and unplun<g ref="char:EOLhyphen"/>dering Soldier, and an honeſt free, loving, liberal-hearted <g ref="char:V">Ʋ</g>ſurer; ſo it is as rare to ſee or hear, that they quietly dye in their beds; but to be cut off, as <hi>David</hi> propheſied, in the <hi>Spring</hi> or <hi>Summer,</hi> the <hi>begining</hi> or <hi>midſt</hi> of their days, by ſome tragical and violent Death as ſeized on <hi>Pharoah, Ahab, Jezabel, Athalia, Adonizebeck, Senacharib,</hi> and <hi>Herod</hi> in the Scripture; on <hi>Antiochus, Epimenes, Nicanor,</hi> and <hi>Holo<g ref="char:EOLhyphen"/>fernes</hi> in the <hi>Apochrypha:</hi> and in Eccleſiaſtick Hictory on <hi>Nero, Decius, Domitian, Caligula, Julian</hi> the Apoſtate, and all the Roman Emperors: In the Pagan, on <hi>Attila, Totilas, Genſericus, Theodorick,</hi> recorded by <hi>Victor</hi> and <hi>Procopius,</hi> in the <hi>Arrian;</hi> and on <hi>Iohn de Ro<g ref="char:EOLhyphen"/>ma Minerius:</hi> On <hi>Gardiner, Bonner, Morgan, Fryer Alphonſus,</hi> with others, in our Papal perſecutions: with all the Tragedies of <hi>Pho<g ref="char:EOLhyphen"/>cas</hi> and <hi>Zimri,</hi> the murtherers of their Maſters; of <hi>Pompilius</hi> the ſecond, and <hi>Boleſlaus</hi> the ſecond, both Kings of <hi>Poland:</hi> of <hi>Hatto</hi> the Biſhop of <hi>Ments,</hi> and the cruel King <hi>Popiel,</hi> both eaten with rats: of <hi>Alexander, Phereus,</hi> and <hi>Francis</hi> a V<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>count of <hi>Padua,</hi> baiting men to death in the skins of wilde beaſts; are extracted and contra<g ref="char:EOLhyphen"/>cted out of Eccleſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtick and ſecular Authors by <hi>Strigellius, lib.</hi> 1. <hi>dialect. p.</hi> 495. by <hi>Philip Melancton in locis Manlii,</hi> p. 630, 631. By <hi>Peucer</hi> in his Lectures, <hi>anno</hi> 1575. <hi>die</hi> 9 <hi>Iulii;</hi> and by <hi>Antimatchavil lib.</hi> 3. p. 546. chiefly by the learned <hi>Arniſeus de Tirannide in exercitio,</hi> and by <hi>junior Brutus de vindice,</hi> which ſome ſay now ſpeaks Engliſh.</p>
+            <p>Sixthly They have lived ſo little deſired, and dyed ſo little lament<g ref="char:EOLhyphen"/>ed, that as though they were <hi>terrae inutile pondus,</hi> ſuch men Monſters, or <hi>lutum ſanguine commixtum,</hi> ſuch clays commixt with blood, that the world might well ſpare them as a ſixth finger; that amongſt o<g ref="char:EOLhyphen"/>ther honors, ſome (as <hi>Harmodius</hi> and <hi>Ariſtogiton</hi>) had Statues and I<g ref="char:EOLhyphen"/>mages erected to them for ridding Kingdoms of ſuch ſanguinolent blood-ſuckers, who have not fed the ſheep, but fed and preyed upon the ſheep (<hi>Ezek.</hi> 33.) <hi>apud Strigellium, part.</hi> 2. <hi>locorum, pag.</hi> 210. at leaſt they have been oppoſed, if not depoſed, and have had as trou<g ref="char:EOLhyphen"/>bleſom reignes as King <hi>Iohn, King Steven, Richard the third,</hi> and <hi>Ed<g ref="char:EOLhyphen"/>ward the ſecond</hi> here in <hi>England,</hi> who either out of their own Native Diſpoſit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons to Cruelty (born as it were with teeth like <hi>Cham</hi> and <hi>Zoroaſtres</hi>) to bite and devour men <hi>in pernitiem humani generis,</hi> as was ſaid of <hi>Nero</hi> to the deſtruction of men, or their tolerable good natures abuſed by evil Counſellors (as <hi>May,</hi> the moſt pleaſing mo<g ref="char:EOLhyphen"/>neth
+<pb n="6" facs="tcp:162409:4"/>in the year, is oft imbittered, like furious <hi>March,</hi> by the riſing of the Malignant Pliades) if once detected to be Wolves though in ſheeps clothing, they have had much ado to live quiet, and peaceable, and ſedentary lives, like <hi>Titerus Milibeus Alexis,</hi> with their <hi>Deus nobis haec otia fecit,</hi> but <hi>Dirus Daemon haec negotia;</hi> their oaten muſi<g ref="char:EOLhyphen"/>cal pipes have turned into martial pikes, that have not been as <hi>Homer</hi> terms <hi>Agamemnon frugi paſtores,</hi> good ſhepherds, <hi>pecus tondentes non deglubentes,</hi> ſhearing their ſheep by ſubſiſting ſubſidies, not tear<g ref="char:EOLhyphen"/>ing them by ſpunging ſanguinolencies; Neither is it long fair wea<g ref="char:EOLhyphen"/>ther with their weak or wicked Counſellors, but the ſtorms, which they have raiſed againſt others, fall oft upon themſelves in ſhowres of blood, ſuch as we know fell on the head of <hi>Haman</hi> the wicked <hi>Sy<g ref="char:EOLhyphen"/>rian,</hi> counſelling <hi>Darius</hi> to ſecond his powder plot againſt <hi>Mardo<g ref="char:EOLhyphen"/>chens, Eſther,</hi> and all the Jew, and on <hi>Achitophel</hi> ſtrangling all his <hi>golden</hi> hopes from <hi>Abſalom</hi> in his own Halter; the like fate or a worſe befalling <hi>Doeg</hi> whom <hi>David</hi> ſo prophetically curſed; on whom <hi>Matheſius</hi> reflecteth, <hi>in Seracidem, c.</hi> 4, <hi>p.</hi> 20. and on one <hi>Contaeus,</hi> who lived (in <hi>diſgrace</hi>) but one year, as was preſaged of him, after he had counſelled <hi>Charles,</hi> the furious Duke of <hi>Burgundy,</hi> to cut off three hundred Innocents, whom he kept as <hi>pledges,</hi> contrary to the merciful diſſwafions of <hi>Imbercortus Ambianus,</hi> as his bloody baſenes, with the end of it, is related by that worthy <hi>Comineus</hi> in his commen<g ref="char:EOLhyphen"/>ted Geſts betwixt the <hi>French Lewis</hi> and that <hi>Duke, lib.</hi> 2. <hi>p.</hi> 57.58, 59.61, 66. And what end <hi>Steven Gardiner</hi> made the cruel Counſellor to Queen <hi>Mary,</hi> in her <hi>quinquennium</hi> againſt all the Proteſtants, but eſpecially againſt Queen <hi>Elizabeth,</hi> I refer you to a <hi>forreign</hi> Author <hi>Michael Beutherus,</hi> in his Appendix to <hi>Sleidan, lib.</hi> 8. <hi>p.</hi> 87. But however the bad Crounſellors of Princes, making and moulding bloody bolts for them to ſhoot, may fly away (as the Perſians and Iriſh after they have caſt their darts) like Woodcocks in a miſt, or a Goldfinch on windy banks, and ſave themſelves for a time: yea may return again into a Kingdom to do more miſchief, as Rams going backward, come on with the greater puſh; raiſing new Ward and Commotions after their <hi>Exilings, Baniſhments and preſcriptions:</hi> (as <hi>Catiline</hi> and <hi>Marcus Coriolanus</hi> did in <hi>Rome; Sertorius</hi> in <hi>Spain,</hi> after his ſiding with <hi>Marius, Dio</hi> againſt <hi>Dioniſius</hi> in <hi>Siracuſa,</hi> with other Exiles, ſtirring up the like broils in <hi>Tigure, Belgia,</hi> and elſe<g ref="char:EOLhyphen"/>where, in all which, with others, any may be further ſatisſied by the relation of <hi>Pencer</hi> in his Cronocle Lectures, <hi>anno</hi> 1572, <hi>die</hi> 4. <hi>Octob.</hi> and by <hi>Bodin</hi> in his 4 book <hi>de rep.</hi> p. 615. and by <hi>Antimatchavil,</hi> lib.
+<pb n="7" facs="tcp:162409:4"/>3. p. 400. and by <hi>Polibius</hi> lib. 4. p. 336, 337. And he may be inform<g ref="char:EOLhyphen"/>ed further, what Firebrands they uſually are in <hi>kindling</hi> new Commo<g ref="char:EOLhyphen"/>tions, by the Verdicts given of them by <hi>Patritius de rep, tit.</hi> 5. p. 393 <hi>Dan<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us</hi> in his Political Aphoriſms, p. 141. And by <hi>Melancton</hi> in <hi>Cordiali Bucholcheri</hi> p. 145. Yet nevertheleſs what ever become of ſuch in their converſion or confuſion; as fierceſt winds blow down the ſturdieſt Oaks, the greateſt Cedars of <hi>Libanus,</hi> and the higheſt Pines of <hi>Ida,</hi> the juſt God copes with cruel Tyrants, the Execution<g ref="char:EOLhyphen"/>ers of bloody Counſells, ſo fiercely, that the axe of his wrath cuts of both them and their ſeed, both root and branch, ſo viſibly in moſt Ages, that its proverbial, <hi>Tyrannus non habet tertium heredem,</hi> A Tyrant hath ſcarce a third Heir, nay any Heir at all, more then <hi>Dio<g ref="char:EOLhyphen"/>niſius</hi> the elder, who left never a ſucceſſor to the Kingdom of <hi>Sicily:</hi> or <hi>Piſiſtratus,</hi> whoſe ſons <hi>Hippias</hi> and <hi>Hipparchus</hi> were exiled and ſlain, as <hi>Strigellius</hi> obſerves <hi>lib.</hi> 2. <hi>Chron.</hi> p. 54. and <hi>Melancton</hi> in many before recited: yea ſo generally in all, that with him, <hi>eſt prope<g ref="char:EOLhyphen"/>modum regulare,</hi> its a Rule and a Cannon, <hi>Tyrannus expulſos eſſe de terra,</hi> Tyrants to be ſpued out of the earth, as <hi>Canaan</hi> did her Inha<g ref="char:EOLhyphen"/>bitants; yea <hi>purged</hi> out as the Sea her froth to the ſhore: or as new wines work out injected poyſons: <hi>in Poſtillis part.</hi> 4. <hi>p.</hi> 551, <hi>&amp;</hi> 577. As a Warning piece ſhot off to our truculent, unjuſt, and tyrannical Times, where in peace, and mildeneſs, and Mercy, each of them like the Poets <hi>Aſtraea, terras reliquit,</hi> hath left the earth, and with love, juſtice and conſcience, are fled to Heaven to complain their worſe then Tom D<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ms entertainment here below, as a Monitor to every bloody <hi>Nimrodian hunter</hi> in our worſt of Wars, like <hi>Cynthius, aurem vellens,</hi> pulling him by the ſleeve, and whiſpering, <q xml:lang="lat">in me inetuens pius eſto.</q>
+               <q>
+                  <l>Look upon me, beleeve my Creeds,</l>
+                  <l>Blood calls for blood, ſuch crops, ſuch ſeeds.</l>
+               </q>
+            </p>
+            <p>On the contrary, I beleeve with the ſame <hi>Melancton,</hi> That, <hi>Mo<g ref="char:EOLhyphen"/>derati, boni &amp; benifici princepes habent diucturniorem &amp; tranquillio<g ref="char:EOLhyphen"/>rem gubernationem,</hi> Milde, moderate, good and benigne Princes (as he inſtances n <hi>Auguſtus Caeſar</hi> p. 551. and in <hi>Frederick</hi> the Duke of <hi>Saxony,</hi> p. 553. And we may inſtance in our late Engliſh <hi>Deborah, Spencers Eliza,</hi> and our far famed late Platonical <hi>rex Pacificus,</hi>) have their Governments both more calm and peaceable, and more firme and fixt; yea as a corrola<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to this Article of my morral <hi>Creed,</hi> in an H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtorical faith. I beleeve, that humility, modeſty, moderation and clemency in a Conqueror, makes him a conſtant and a more perpe<g ref="char:EOLhyphen"/>tual Conqueror by love, then <hi>Caeſar</hi> was a dictator by power; yea
+<pb n="8" facs="tcp:162409:5"/>ſince <hi>fortius eſt qui ſe, quam qui fortiſſima vincit,</hi> as it is the greateſt Conqueſt for a Conqueror to conquer himſelf (as the beſt ſtudy to ſtu<g ref="char:EOLhyphen"/>dy men and himſelf) to conquer his iraſcible paſſions which <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> could not: and his concupiſcible which <hi>Hercules</hi> could not do, ſo vaſſalized by his <hi>Iole,</hi> his <hi>Omphale,</hi> his <hi>Deianira,</hi> to him, <hi>Dei Ira;</hi> that the Poet ſcoffs him with his <q xml:lang="lat">Laenam non potuit, potuit ſuperare leaenam.</q>
+               <q>
+                  <l>He Gacus Cerberus and Hydra ſlew:</l>
+                  <l>Lions, not Luſts and Drabs he could ſubdue.</l>
+               </q>
+            </p>
+            <p>This moderate and clement temper in a Conqueror, thinks <hi>Danaeus,</hi> in his political Aphoriſms, p. 123, 135, 177. in many expreſſions, hath ſuch an Adamantine and attractive force upon the hearts of men, that it makes way and breaks the Ice ſtill to further Trophies and Ho<g ref="char:EOLhyphen"/>nors, both in Wars and in Peace: as there was nothing that more dignified <hi>Caeſar</hi> then the pardoning of <hi>Tully</hi> and others, who ſided with <hi>Pompey,</hi> in weeping over <hi>Pompeys</hi> head, in warring with <hi>Ptolo<g ref="char:EOLhyphen"/>my</hi> his viperous <hi>friend,</hi> who had betrayed him, and in jugulating <hi>A<g ref="char:EOLhyphen"/>chilles Photinus</hi> who had beheaded him: <hi>Caeſar dando ſublovando gloriam adeptus eſt:</hi> his bounty in <hi>giving</hi> to his <hi>Commilitones,</hi> his fel<g ref="char:EOLhyphen"/>low Soldiers, leaving (like that <hi>Pelean</hi> youth) little to himſelf but hope, and his clemency in <hi>forgiving</hi> joyned to his proweſs, as a pearl in gold, ſo honored him, even among his <hi>enemies:</hi> So what <hi>dignified Alexander</hi> more then all <hi>his</hi> deſired Perſian Honors (<hi>in ayming</hi> folliſh<g ref="char:EOLhyphen"/>ly to be <hi>deiſied,</hi>) but <hi>in uſing King</hi> Porus <hi>his captive Regaliter</hi> ſo re<g ref="char:EOLhyphen"/>gally: the Mother and Daughter of <hi>Darius</hi> ſo chaſtely and honor<g ref="char:EOLhyphen"/>ably: <hi>in revenging</hi> ſo juſtly and nobly the baſe aſſaſſinating of the great <hi>Darius</hi> his enemy on Baſſa, and his confederate murtherers: in ſparing the beſieging and ſacking of Jeruſalem, upon the reverend re<g ref="char:EOLhyphen"/>gard he had to <hi>Iaddus</hi> the high Prieſt: As full relation as made of all theſe by <hi>Plutark,</hi> and <hi>Curtius</hi> in his life; and alſo of ſome of them by <hi>Patritius,</hi> lib. 8. <hi>de regno, tit.</hi> 12. p. 528. and of the laſt by <hi>Ioſephus</hi> lib. 11. So what more ingratiated <hi>David</hi> in the hearts of his people, then in burying <hi>Abner</hi> his whilom enemy, not with the burial of an Aſs, like <hi>Iehoakim,</hi> but honorably, 2 Sam. in making his encomiaſtick and Funeral Sermon over his grave: In revenging his death, as well as Amaſaes, on the bloody head of <hi>Joab:</hi> In pardoning reviling <hi>Semei,</hi> though a blatrant beaſt, yet ſparing him as a noble Lion, when he was proſtrate before him 2 Sam. 16. Oh that theſe preſidents and thou<g ref="char:EOLhyphen"/>ſand moe, ſacred and ſecular, might preach now to us Acts of Oblivi<g ref="char:EOLhyphen"/>on of Injuries writ in duſt and Friendſhips in braſs, for a firm and cor<g ref="char:EOLhyphen"/>dial peace; never to break out as wounds skin'd over, rankling at the bone.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
